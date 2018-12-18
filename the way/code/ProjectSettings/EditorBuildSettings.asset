@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameOver/Loading.unity
+    guid: 93f40a78eff797445872f4adbaf8513a
+  - enabled: 1
+    path: Assets/Scenes/Menu/MainMenu.unity
+    guid: 10ecb1a92e4bc6c4688ab94b6e79d50c
+  - enabled: 1
+    path: Assets/Scenes/Level/lvl1.unity
+    guid: ec94e9e0427b1724288e22fc20b5c5c2
+  - enabled: 1
+    path: Assets/Scenes/Level/lvl2.unity
+    guid: 9d8a9af5733c78a4784ca2a3faaaa69c
+  - enabled: 1
+    path: Assets/Scenes/Level/lvl3.unity
+    guid: c1373074e6e17da4b835e7b50d012403
+  - enabled: 1
+    path: Assets/Scenes/Menu/FinishLevel1.unity
+    guid: 71f0aa38b02de7b4da8cad11b6d72084
+  - enabled: 1
+    path: Assets/Scenes/GameOver/GameOver1.unity
+    guid: fc670efa33254ac429a12d2b7f48f15b
+  - enabled: 1
+    path: Assets/Scenes/Menu/PilihLevel.unity
+    guid: a3d27dc0c2090b548ad626c4041a9c00
+  - enabled: 1
+    path: Assets/Scenes/Menu/FinishLevel3.unity
+    guid: e362fba2aef9843468149d62b465bddd
+  - enabled: 1
+    path: Assets/Scenes/Menu/FinishLevel2.unity
+    guid: 70678a9802d451441bfb6921f0fb46a2
+  - enabled: 1
+    path: Assets/Scenes/GameOver/GameOver2.unity
+    guid: ca19b15d5f48d1f469ebbef9f7f0b7f3
+  - enabled: 1
+    path: Assets/Scenes/GameOver/GameOver3.unity
+    guid: 4c666ec673583ec46aeada45015345c3
